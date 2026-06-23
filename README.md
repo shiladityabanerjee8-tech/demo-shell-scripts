@@ -1,5 +1,4 @@
 # Demo Shell Scripts
-# Demo Shell Scripts
 
 This repository contains shell scripts for Linux and DevOps practice.
 
